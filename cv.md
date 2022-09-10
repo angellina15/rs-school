@@ -8,6 +8,12 @@ ___
 ## **Briefly about myself:**
 Accomplished economist, but i'm extremely motivated for career change goal.
 ____________
+## **Skills and Proficiency:**
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+_____________
 ## **Education:**
 University: Samara State University of Economics
 ___________
