@@ -1,1 +1,1 @@
-https://angellina15.github.io/rs-school-cv/cv
+https://angellina15.github.io/rs-school-cv
