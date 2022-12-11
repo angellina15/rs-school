@@ -19,6 +19,6 @@ University: Samara State University of Economics
 ___________
 ## **Languages:**
 - English - Intermediate (70% according to the online test at EFset Logo www.efset.org)
-- French - basic
+- French - Basic B1
 - Russian - Native
 
